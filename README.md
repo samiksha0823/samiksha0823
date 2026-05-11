@@ -3,10 +3,7 @@
   <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Samiksha%20Bhardwaj&fontSize=70&animation=fadeIn" />
 </p>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
-</div>
+
 
 <br>
 
@@ -16,8 +13,8 @@
       <h3>👋 Hey there!</h3>
       <p>I'm a <b>Mathematics and Computing</b> student passionate about the intersection of <b>AI and Healthcare</b>. Currently exploring advanced research in Physics-Guided Machine Learning and Topological Data Analysis.</p>
       <ul>
-        <li>🔭 <b>Interning at:</b> IIT Bombay</li>
-        <li>📚 <b>Learning:</b> Bioinformatics & TDA</li>
+        <li>🔭 <b> Currentlylearning :</b> Data handling for medical Datasets,Computer Vision, NL</li>
+        <li>📚 <b> Currently working on:</b> TopoVein-Biometric security system that use topological data analysis </li>
         <li>⚡ <b>Activity:</b> IEEE Computer Society Event Coordinator</li>
       </ul>
     </td>
