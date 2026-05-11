@@ -1,7 +1,3 @@
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Samiksha%20Bhardwaj&fontSize=70&animation=fadeIn" />
-</p>
 
 
 
