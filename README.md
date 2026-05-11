@@ -1,70 +1,61 @@
- <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
-
-###
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Samiksha%20Bhardwaj&fontSize=70&animation=fadeIn" />
+</p>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SamikshaBhardwaj.SamikshaBhardwaj&"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
 </div>
 
-###
+<br>
 
-<h1 align="center">hey there 👋</h1>
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+      <h3>👋 Hey there!</h3>
+      <p>I'm a <b>Mathematics and Computing</b> student passionate about the intersection of <b>AI and Healthcare</b>. Currently exploring advanced research in Physics-Guided Machine Learning and Topological Data Analysis.</p>
+      <ul>
+        <li>🔭 <b>Interning at:</b> IIT Bombay</li>
+        <li>📚 <b>Learning:</b> Bioinformatics & TDA</li>
+        <li>⚡ <b>Activity:</b> IEEE Computer Society Event Coordinator</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=SamikshaBhardwaj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="100%" />
+    </td>
+  </tr>
+</table>
 
-###
+### 🛠️ Languages & Tools
 
-<h3 align="left">👩‍💻 About Me</h3>
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-ED1C24?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white" />
+</p>
 
-###
+<p align="left">
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 
-<p align="left">I'm <b>Samiksha Bhardwaj</b>, a B.Tech student in Mathematics and Computing at CUK.<br><br>- 🔭 I’m currently a <b>Research Intern at IIT Bombay</b> focusing on Physics-Guided Machine Learning.<br>- 📚 I'm currently exploring <b>Topological Data Analysis (TDA)</b> and Bioinformatics.<br>- ⚡ In my free time, I coordinate events for the <b>IEEE Computer Society</b> and work on AI-driven healthcare solutions.</p>
+### 📈 Activity Stats
 
-###
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamikshaBhardwaj&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamikshaBhardwaj&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="45%" />
+</p>
 
-<h3 align="left">🛠 Languages and Tools</h3>
-
-###
-
-<div align="left">
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <!-- R Programming -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="12" />
-  <!-- LaTeX -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
-  <img width="12" />
-  <!-- Flask -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <!-- Tailwind CSS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <!-- Figma -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥 My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SamikshaBhardwaj&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=100&section=footer" />
+</p>
