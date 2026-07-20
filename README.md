@@ -46,9 +46,9 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamikshaBhardwaj&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamikshaBhardwaj&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamikshaBhardwaj&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=100&section=footer" width="100%" alt="Footer wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" alt="Footer wave" />
 </p>
