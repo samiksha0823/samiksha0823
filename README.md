@@ -9,8 +9,8 @@
       <h3>👋 Hey there!</h3>
       <p>I'm a <b>Mathematics and Computing</b> student passionate about the intersection of <b>AI and Healthcare</b>. Currently exploring advanced research in Physics-Guided Machine Learning and Topological Data Analysis.</p>
       <ul>
-        <li>🔭 <b> Currentlylearning :</b> Data handling for medical Datasets,Computer Vision, NL</li>
-        <li>📚 <b> Currently working on:</b> TopoVein-Biometric security system that use topological data analysis </li>
+        <li>🔭 <b> Currentlylearning :</b> Data handling for medical Datasets,Deep learning and Machine Learning concepts,how to design and build llm</li>
+        <li>📚 <b> Currently working on:</b> system that use topological data analysis with AI/ML </li>
         <li>⚡ <b>Activity:</b> IEEE Computer Society Event Coordinator</li>
       </ul>
     </td>
@@ -45,10 +45,10 @@
 ### 📈 Activity Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamikshaBhardwaj&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamikshaBhardwaj&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamikshaBhardwaj&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamikshaBhardwaj&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=100&section=footer" width="100%" alt="Footer wave" />
 </p>
